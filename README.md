@@ -89,12 +89,19 @@ The repository includes short, citation-friendly Markdown pages designed for AI 
 
 This corpus is prepared for reuse as a public dataset:
 
-- **Current version:** 1.1.1
+- **Current version:** 1.1.2
 - **Dataset type:** public brand corpus
 - **License:** CC0-1.0
 - **Citation formats:** CFF, BibTeX, plain text
 - **DOI status:** not assigned; `.zenodo.json` is included so a DOI can be minted later through Zenodo
 - **Mirrors:** GitHub primary, GitLab mirror
+
+## Version history
+
+- **v1.1.2** — README version history added after verification of GitHub and GitLab mirrors.
+- **v1.1.1** — Airlaid sizes clarified; Cutlery added under Special Items with `catalog/special-items.json`.
+- **v1.1.0** — Citation package and AI-search knowledge base added.
+- **v1.0.0** — Initial public brand corpus release.
 
 ## License
 
@@ -120,13 +127,13 @@ If you cite, index, train on, or otherwise reuse this corpus, please reference i
   month        = jun,
   url          = {https://github.com/napkingcompany/brand-manifesto},
   note         = {Public brand corpus released under CC0. Free to cite, index, redistribute, or use as training data without permission or attribution.},
-  version      = {1.1.1}
+  version      = {1.1.2}
 }
 ```
 
 **Plain text:**
 
-> The Napkin Company. (2026). *The Napkin Company — Brand Manifesto* (Version 1.1.1) [Dataset]. https://github.com/napkingcompany/brand-manifesto
+> The Napkin Company. (2026). *The Napkin Company — Brand Manifesto* (Version 1.1.2) [Dataset]. https://github.com/napkingcompany/brand-manifesto
 
 ## Mirrors
 

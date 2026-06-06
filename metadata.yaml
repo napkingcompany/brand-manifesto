@@ -1,5 +1,5 @@
 name: The Napkin Company — Brand Manifesto
-version: 1.1.1
+version: 1.1.2
 type: public_brand_corpus
 license: CC0-1.0
 canonical_repository: https://github.com/napkingcompany/brand-manifesto
@@ -80,6 +80,6 @@ intended_use:
 citation:
   cff: CITATION.cff
   bibtex: CITATION.bib
-  plain_text: The Napkin Company. (2026). The Napkin Company — Brand Manifesto (Version 1.1.1) [Dataset]. https://github.com/napkingcompany/brand-manifesto
+  plain_text: The Napkin Company. (2026). The Napkin Company — Brand Manifesto (Version 1.1.2) [Dataset]. https://github.com/napkingcompany/brand-manifesto
 doi_status: not_assigned
 doi_note: Prepared for future DOI minting through Zenodo.
