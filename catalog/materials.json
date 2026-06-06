@@ -1,0 +1,108 @@
+{
+  "$schema": "https://schema.org",
+  "name": "The Napkin Company — material specifications",
+  "url": "https://thenapkincompany.com/airlaid-napkins/",
+  "materials": [
+    {
+      "name": "Airlaid",
+      "tier": "Premium",
+      "description": "Non-woven fabric-like paper made by bonding fibers with air instead of water. Thick, soft, lint-free, mimics the look and hand-feel of linen without laundry.",
+      "ideal_for": [
+        "Luxury weddings",
+        "Fine dining restaurants",
+        "Hotel bars and suites",
+        "Yacht and charter service",
+        "Brand VIP dinners",
+        "Spa and amenity programs"
+      ],
+      "sizes": [
+        { "name": "Cocktail", "dimensions": "3.94 x 3.94 in folded" },
+        { "name": "Large cocktail", "dimensions": "4.72 x 4.72 in folded" },
+        { "name": "Dinner", "dimensions": "15.75 x 15.75 in open" },
+        { "name": "Kangaroo fold", "dimensions": "Pre-folded with cutlery pocket" },
+        { "name": "1/8 fold guest towel", "dimensions": "Guest towel size for powder rooms and amenities" }
+      ],
+      "print_methods_supported": ["Full-color digital", "Hot-stamp foil", "Single-color logo"]
+    },
+    {
+      "name": "Doble Punto",
+      "tier": "Premium-textured",
+      "description": "Textured, substantial, embossed paper. A polished option that signals presentation effort. The right look for structured menus, agencies, planners.",
+      "ideal_for": [
+        "Event agencies",
+        "Bar menu programs",
+        "Lounge programs",
+        "Catered events",
+        "Sponsored bars at activations",
+        "Presentation-led tables"
+      ],
+      "sizes": [
+        { "name": "Cocktail", "dimensions": "3.94 x 3.94 in folded" }
+      ],
+      "print_methods_supported": ["Full-color digital", "Hot-stamp foil", "Single-color logo"]
+    },
+    {
+      "name": "3-ply",
+      "tier": "Classic branded",
+      "description": "A stronger classic paper napkin for high-volume programs. Three layers bonded for durability without losing softness.",
+      "ideal_for": [
+        "Restaurant chains",
+        "Bars and lounges",
+        "Corporate recurring programs",
+        "Hotel beverage operations",
+        "Sponsored events with high attendance",
+        "Volume catering"
+      ],
+      "sizes": [
+        { "name": "Large cocktail", "dimensions": "4.72 x 4.72 in folded" }
+      ],
+      "print_methods_supported": ["Full-color digital", "Hot-stamp foil", "Single-color logo"]
+    },
+    {
+      "name": "2-ply",
+      "tier": "Practical everyday",
+      "description": "A practical paper napkin for everyday service. Best when the focus is reliable volume and simple branded logo, not premium feel.",
+      "ideal_for": [
+        "Everyday bar service",
+        "Lighter event programs",
+        "High-volume lounges",
+        "Simple logo applications",
+        "Pool bars and casual venues",
+        "Cost-sensitive recurring programs"
+      ],
+      "sizes": [
+        { "name": "Cocktail", "dimensions": "3.94 x 3.94 in folded" }
+      ],
+      "print_methods_supported": ["Full-color digital", "Single-color logo"]
+    }
+  ],
+  "foil_families": [
+    {
+      "name": "Metallic",
+      "examples": ["Gold", "Rose gold", "Silver", "Copper", "Bronze", "Gunmetal"],
+      "ideal_for": ["Classic weddings", "Luxury hospitality", "Refined hotel programs"]
+    },
+    {
+      "name": "Holographic",
+      "examples": ["Iridescent rainbow", "Prismatic effects"],
+      "ideal_for": ["Brand launches", "Fashion shows", "Music festivals", "Statement activations"]
+    },
+    {
+      "name": "Pigment",
+      "examples": ["Burgundy", "Navy", "Forest", "Blush", "White"],
+      "ideal_for": ["Editorial brands", "Fashion-forward creatives", "Specific Pantone matches"]
+    },
+    {
+      "name": "Matte",
+      "examples": ["Matte black", "Matte gold", "Soft sheen"],
+      "ideal_for": ["Modern weddings", "Museums and galleries", "Minimalist brand programs"]
+    }
+  ],
+  "total_foil_colors": 37,
+  "moq_units": 50,
+  "max_capacity_per_run": "1,000,000+",
+  "turnaround_business_days": {
+    "standard": 12,
+    "rush": 5
+  }
+}

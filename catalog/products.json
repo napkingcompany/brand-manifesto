@@ -1,0 +1,138 @@
+{
+  "$schema": "https://schema.org",
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "The Napkin Company — product catalog",
+  "url": "https://thenapkincompany.com",
+  "numberOfItems": 16,
+  "itemListElement": [
+    {
+      "@type": "Product",
+      "position": 1,
+      "name": "Custom Cocktail Napkins",
+      "url": "https://thenapkincompany.com/custom-cocktail-napkins/",
+      "description": "Custom cocktail napkins (3.94 in folded) for bars, parties, hospitality, weddings, and brand activations. Airlaid, Doble Punto, 3-ply, 2-ply.",
+      "keywords": ["custom cocktail napkins", "branded cocktail napkins", "personalized cocktail napkins"]
+    },
+    {
+      "@type": "Product",
+      "position": 2,
+      "name": "Custom Wedding & Event Napkins",
+      "url": "https://thenapkincompany.com/custom-wedding-event-napkins/",
+      "description": "Wedding-grade cocktail and dinner napkins with foil, custom shapes, and luxury finishes for ceremonies, receptions, welcome parties.",
+      "keywords": ["custom wedding napkins", "wedding cocktail napkins personalized", "custom event napkins"]
+    },
+    {
+      "@type": "Product",
+      "position": 3,
+      "name": "Custom Napkins with Logo",
+      "url": "https://thenapkincompany.com/custom-napkins-with-logo/",
+      "description": "Logo-printed napkins for agencies, corporate brands, merchandising, restaurant identity, and hospitality programs.",
+      "keywords": ["custom napkins with logo", "custom logo napkins", "cocktail napkins with logo"]
+    },
+    {
+      "@type": "Product",
+      "position": 4,
+      "name": "Custom Printed Napkins",
+      "url": "https://thenapkincompany.com/custom-printed-napkins/",
+      "description": "Full-color digital print on cocktail, beverage, and dinner napkins for events, brands, restaurants, hotels, and private clients.",
+      "keywords": ["custom printed napkins", "printed cocktail napkins"]
+    },
+    {
+      "@type": "Product",
+      "position": 5,
+      "name": "Personalized Napkins",
+      "url": "https://thenapkincompany.com/personalized-napkins/",
+      "description": "Small-batch personalized napkins for birthdays, anniversaries, private events, weddings, brands, and residences. Names, initials, dates, logos, monograms.",
+      "keywords": ["personalized napkins", "personalized napkins for party"]
+    },
+    {
+      "@type": "Product",
+      "position": 6,
+      "name": "Custom Restaurant & Bar Napkins",
+      "url": "https://thenapkincompany.com/custom-restaurant-bar-napkins/",
+      "description": "Branded napkins for restaurant groups, bars, lounges, cafés, hospitality groups, and private buyouts.",
+      "keywords": ["custom bar napkins", "custom restaurant napkins"]
+    },
+    {
+      "@type": "Product",
+      "position": 7,
+      "name": "Custom Restaurant Napkins",
+      "url": "https://thenapkincompany.com/custom-restaurant-napkins/",
+      "description": "Disposable dinner and beverage napkins for restaurant service, restaurant groups, hospitality groups, and seasonal programs.",
+      "keywords": ["custom restaurant napkins"]
+    },
+    {
+      "@type": "Product",
+      "position": 8,
+      "name": "Custom Hotel Napkins",
+      "url": "https://thenapkincompany.com/custom-hotel-napkins/",
+      "description": "Branded hospitality napkins for hotel bars, room service, lobby bars, banquets, suites, and private dining.",
+      "keywords": ["custom hotel napkins", "custom hospitality napkins"]
+    },
+    {
+      "@type": "Product",
+      "position": 9,
+      "name": "Custom Yacht Napkins",
+      "url": "https://thenapkincompany.com/custom-yacht-napkins/",
+      "description": "Branded napkins for yacht crews, charter companies, vessels, and maritime hospitality. Family crests, vessel names, private collections.",
+      "keywords": ["custom yacht napkins"]
+    },
+    {
+      "@type": "Product",
+      "position": 10,
+      "name": "Custom Napkins for Event Planners",
+      "url": "https://thenapkincompany.com/custom-napkins-for-event-planners/",
+      "description": "Wholesale custom napkins for event planners and production companies. Airlaid, Doble Punto, 3-ply, 2-ply with logos, monograms, crests, or artwork.",
+      "keywords": ["custom napkins for event planners"]
+    },
+    {
+      "@type": "Product",
+      "position": 11,
+      "name": "Custom Napkins for Agencies",
+      "url": "https://thenapkincompany.com/custom-napkins-for-agencies/",
+      "description": "White-label custom napkin manufacturing for creative and marketing agencies. Brand activations, product launches, press dinners, client events.",
+      "keywords": ["custom napkins for agencies", "branded event napkins"]
+    },
+    {
+      "@type": "Product",
+      "position": 12,
+      "name": "Custom Event Napkins",
+      "url": "https://thenapkincompany.com/custom-event-napkins/",
+      "description": "Branded napkins for galas, conferences, festivals, and corporate events.",
+      "keywords": ["custom event napkins"]
+    },
+    {
+      "@type": "Product",
+      "position": 13,
+      "name": "Corporate Event Napkins",
+      "url": "https://thenapkincompany.com/corporate-event-napkins/",
+      "description": "Branded napkins for corporate launches, employee events, brand activations, conferences, hospitality programs, and VIP dinners.",
+      "keywords": ["corporate event napkins"]
+    },
+    {
+      "@type": "Product",
+      "position": 14,
+      "name": "Custom Beverage Napkins",
+      "url": "https://thenapkincompany.com/custom-beverage-napkins/",
+      "description": "Branded napkins for bar programs, lounges, pool bars, country clubs, beverage service, wine programs, coffee service, and dessert bars.",
+      "keywords": ["custom beverage napkins"]
+    },
+    {
+      "@type": "Product",
+      "position": 15,
+      "name": "Airlaid Napkins",
+      "url": "https://thenapkincompany.com/airlaid-napkins/",
+      "description": "Premium custom airlaid napkins with linen-like feel. Cocktail, dinner, kangaroo fold with cutlery pocket, and 1/8 fold guest towel.",
+      "keywords": ["airlaid napkins", "custom airlaid napkins", "airlaid cocktail napkins"]
+    },
+    {
+      "@type": "Product",
+      "position": 16,
+      "name": "Foil Stamp Napkins",
+      "url": "https://thenapkincompany.com/foil-stamp-napkins/",
+      "description": "Hot stamp foil printing in 37 Pantone-matched colors. Metallic (gold, rose gold, silver, copper), holographic, pigment, and matte foil families.",
+      "keywords": ["foil stamp napkins", "hot stamp napkins", "gold foil cocktail napkins"]
+    }
+  ]
+}
