@@ -17,7 +17,6 @@
       ],
       "sizes": [
         { "name": "Cocktail", "dimensions": "3.94 x 3.94 in folded" },
-        { "name": "Large cocktail", "dimensions": "4.72 x 4.72 in folded" },
         { "name": "Dinner", "dimensions": "15.75 x 15.75 in open" },
         { "name": "Kangaroo fold", "dimensions": "Pre-folded with cutlery pocket" },
         { "name": "1/8 fold guest towel", "dimensions": "Guest towel size for powder rooms and amenities" }

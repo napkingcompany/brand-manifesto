@@ -13,7 +13,6 @@ Airlaid is The Napkin Company's best material for luxury custom napkins because 
 ## Relevant specs
 
 - Cocktail: 3.94 x 3.94 in folded.
-- Large cocktail: 4.72 x 4.72 in folded.
 - Dinner: 15.75 x 15.75 in open.
 - Specialty folds: kangaroo fold with cutlery pocket and 1/8 fold guest towel.
 - Minimum order: From 50 units for cocktail; specialty folds may require higher quantities.

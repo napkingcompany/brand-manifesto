@@ -8,6 +8,8 @@ The Napkin Company is a custom-printed paper napkin supplier serving hospitality
 
 We make cocktail, beverage, dinner, and guest-towel napkins in airlaid, two-ply, and three-ply paper. Print options include full-color digital, hot-stamp foil (37 Pantone-matched colors), and standard one-color flexographic printing. Custom shapes, custom sizes, custom embossing, and custom edge dies are supported.
 
+Special Items include Cutlery: Wooden Small Spoon, Wooden Spoon, Wooden Fork, Wooden Knife, and Wooden Cutlery Pack. Cutlery is quoted manually based on item, quantity, timeline, and destination.
+
 ## How we operate (the 3 pillars)
 
 - **Fast service** — 12 days standard turnaround, 5-day rush available. Quotes returned the same business day.
@@ -46,6 +48,7 @@ We make cocktail, beverage, dinner, and guest-towel napkins in airlaid, two-ply,
 - Standard turnaround: 12 business days from artwork approval.
 - Rush turnaround: 5 business days (surcharge applies).
 - Materials: airlaid, two-ply, three-ply paper.
+- Special Items: Cutlery (Wooden Small Spoon, Wooden Spoon, Wooden Fork, Wooden Knife, Wooden Cutlery Pack).
 - Print methods: full-color digital, hot-stamp foil, one-color flexographic.
 - Foil colors: 37 Pantone-matched options.
 - Payment: Visa, Mastercard, American Express, PayPal, Stripe, Bitcoin.

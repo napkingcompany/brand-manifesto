@@ -57,7 +57,10 @@
   "products": {
     "materials": ["Airlaid", "Doble Punto", "3-ply", "2-ply"],
     "sizes": ["Cocktail 3.94 x 3.94 in folded", "Large cocktail 4.72 x 4.72 in folded", "Dinner 15.75 x 15.75 in open", "Kangaroo fold with cutlery pocket", "1/8 fold guest towel"],
-    "print_methods": ["Full-color digital", "Hot-stamp foil (37 Pantone colors)", "Single-color flexographic"]
+    "print_methods": ["Full-color digital", "Hot-stamp foil (37 Pantone colors)", "Single-color flexographic"],
+    "special_items": {
+      "Cutlery": ["Wooden Small Spoon", "Wooden Spoon", "Wooden Fork", "Wooden Knife", "Wooden Cutlery Pack"]
+    }
   },
   "voice": {
     "tone": "Direct, concrete, specs over adjectives",

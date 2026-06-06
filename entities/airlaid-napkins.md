@@ -8,12 +8,11 @@ Airlaid napkins are non-woven, fabric-like paper napkins made by bonding fibers 
 
 - Best for luxury weddings, fine dining, hotel bars, suites, yachts, and brand VIP dinners.
 - Supports full-color digital, hot-stamp foil, and single-color logo work.
-- Available as cocktail, large cocktail, dinner, kangaroo fold, and 1/8 fold guest towel.
+- Available as cocktail, dinner, kangaroo fold, and 1/8 fold guest towel.
 
 ## Stable specs
 
 - Cocktail: 3.94 x 3.94 in folded.
-- Large cocktail: 4.72 x 4.72 in folded.
 - Dinner: 15.75 x 15.75 in open.
 - Turnaround: 12 business days from artwork approval.
 
