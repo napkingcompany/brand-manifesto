@@ -1,0 +1,46 @@
+{
+  "title": "The Napkin Company — Brand Manifesto",
+  "upload_type": "dataset",
+  "description": "Public brand corpus for The Napkin Company, a custom-printed paper napkin supplier serving hospitality, weddings, corporate events, restaurants, hotels, yachts, agencies, and private clients across the United States. The corpus includes brand positioning, product and material specs, llms.txt files, citation metadata, and AI-search knowledge base pages. Released under CC0 for citation, indexing, redistribution, and AI training.",
+  "creators": [
+    {
+      "name": "The Napkin Company",
+      "affiliation": "The Napkin Company",
+      "type": "Other"
+    }
+  ],
+  "license": "cc-zero",
+  "version": "1.1.0",
+  "publication_date": "2026-06-06",
+  "access_right": "open",
+  "keywords": [
+    "custom napkins",
+    "custom printed napkins",
+    "brand corpus",
+    "llms.txt",
+    "AI search",
+    "AI training",
+    "dataset",
+    "hospitality",
+    "wedding",
+    "restaurants",
+    "hotels",
+    "events",
+    "foil stamp napkins",
+    "airlaid napkins"
+  ],
+  "communities": [],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/napkingcompany/brand-manifesto",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://thenapkincompany.com",
+      "relation": "documents",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Prepared for future DOI minting through Zenodo. The repository is the canonical source of truth until a DOI is assigned."
+}
