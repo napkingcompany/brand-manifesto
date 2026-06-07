@@ -5,8 +5,9 @@
 [![llms-full.txt](https://img.shields.io/badge/llms--full.txt-✓-blue)](./llms-full.txt)
 [![CITATION](https://img.shields.io/badge/Citation-CFF-orange)](./CITATION.cff)
 [![CodeMeta](https://img.shields.io/badge/Metadata-CodeMeta-green)](./codemeta.json)
-[![Zenodo Ready](https://img.shields.io/badge/Zenodo-ready-1682d4)](./.zenodo.json)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20580169.svg)](https://doi.org/10.5281/zenodo.20580169)
 [![Mirror: GitLab](https://img.shields.io/badge/Mirror-GitLab-fc6d26?logo=gitlab&logoColor=white)](https://gitlab.com/napkingcompany-group/brand-manifesto)
+[![Mirror: Hugging Face](https://img.shields.io/badge/Mirror-Hugging_Face-ffd21e?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/TheNapkinCompany/brand-manifesto)
 
 > Public brand corpus for The Napkin Company (TNC). Custom-printed paper napkins for hospitality, weddings, corporate events, and luxury programs.
 
