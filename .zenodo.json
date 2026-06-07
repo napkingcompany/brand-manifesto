@@ -6,7 +6,7 @@
     {
       "name": "The Napkin Company",
       "affiliation": "The Napkin Company",
-      "type": "Other"
+      "type": "organizational"
     }
   ],
   "license": "cc-zero",
@@ -45,5 +45,5 @@
       "scheme": "url"
     }
   ],
-  "notes": "Prepared for future DOI minting through Zenodo. The repository is the canonical source of truth until a DOI is assigned."
+  "notes": "Zenodo DOI: 10.5281/zenodo.20580169. The Napkin Company is registered as an organizational creator (Zenodo nameType=Organizational), ensuring correct attribution in DataCite, Google Scholar, BASE, and OpenAIRE indexes."
 }
