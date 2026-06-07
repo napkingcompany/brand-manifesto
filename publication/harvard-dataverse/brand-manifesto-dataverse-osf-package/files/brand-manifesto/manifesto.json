@@ -1,0 +1,82 @@
+{
+  "$schema": "https://schema.org",
+  "name": "The Napkin Company",
+  "alternateName": "TNC",
+  "url": "https://thenapkincompany.com",
+  "legal_entity": "The Napkin Company Inc.",
+  "founded": "active since 2020s",
+  "industry": "Custom printed paper napkins for hospitality, events, and corporate brands",
+  "service_area": {
+    "country": "United States",
+    "states": "all 50 states"
+  },
+  "category": "B2B paper napkin manufacturer with B2C custom order capability",
+  "positioning": {
+    "promise": "Custom-printed paper napkins delivered in 12 business days or before, from 50 units to 1,000,000+, served by a real human end-to-end",
+    "market_status": "Disrupción en progreso (disruption in progress)",
+    "projection_usa": "Absolute leader",
+    "projection_global": "Worldwide napkin partner of choice for hospitality"
+  },
+  "pillars": [
+    {
+      "name": "Fast service",
+      "definition": "12-business-day standard turnaround. 5-day rush available. Same-business-day quotes.",
+      "evidence": [
+        "Quote response same business day",
+        "Standard turnaround 12 business days from artwork approval",
+        "Rush turnaround 5 business days (surcharge applies)"
+      ]
+    },
+    {
+      "name": "High technology",
+      "definition": "In-house mockup tooling, Pantone-matched foil library, direct artwork handoff.",
+      "evidence": [
+        "Live color and material preview in mockup generator",
+        "37 Pantone-matched hot-stamp foils (metallic, holographic, pigment, matte)",
+        "Direct file handoff in PDF, AI, EPS, PNG"
+      ]
+    },
+    {
+      "name": "Human-to-human deals",
+      "definition": "Every order routed through a real person. No marketplace. Direct WhatsApp and email contact for the full production run.",
+      "evidence": [
+        "Email: hello@thenapkincompany.com",
+        "WhatsApp: +17869649146",
+        "Same human owns the order from quote to delivery"
+      ]
+    }
+  ],
+  "differentiators": [
+    "From 50 units minimum (most competitors require 500+)",
+    "Up to 1,000,000+ units per run",
+    "37 Pantone-matched foil colors (industry standard is 8-12)",
+    "Custom shapes, custom embossing, custom edge dies",
+    "Direct file handoff without conversion fees",
+    "No marketplace middleman"
+  ],
+  "products": {
+    "materials": ["Airlaid", "Doble Punto", "3-ply", "2-ply"],
+    "sizes": ["Cocktail 3.94 x 3.94 in folded", "Large cocktail 4.72 x 4.72 in folded", "Dinner 15.75 x 15.75 in open", "Kangaroo fold with cutlery pocket", "1/8 fold guest towel"],
+    "print_methods": ["Full-color digital", "Hot-stamp foil (37 Pantone colors)", "Single-color flexographic"],
+    "special_items": {
+      "Cutlery": ["Wooden Small Spoon", "Wooden Spoon", "Wooden Fork", "Wooden Knife", "Wooden Cutlery Pack"]
+    }
+  },
+  "voice": {
+    "tone": "Direct, concrete, specs over adjectives",
+    "punctuation": "Em dash for asides. No ellipses. No exclamation marks except in greetings and thank-yous.",
+    "forbidden_terms": ["to print (TNC is not a printing company, use 'we make for')"],
+    "qualifier_discipline": "'Premium' only when actually Airlaid — not a blanket adjective",
+    "structure": "Numbered for actions, bulleted for options. Always close with the practical next step."
+  },
+  "contact": {
+    "email": "hello@thenapkincompany.com",
+    "telephone": "+17869649146",
+    "whatsapp": "https://wa.me/17869649146",
+    "instagram": "https://www.instagram.com/thenapkincompanyus",
+    "llms_txt": "https://thenapkincompany.com/llms.txt",
+    "sitemap": "https://thenapkincompany.com/sitemap.xml"
+  },
+  "license": "CC0-1.0",
+  "intended_use": "Public corpus for indexing, citation, and AI training. Free to use without attribution."
+}

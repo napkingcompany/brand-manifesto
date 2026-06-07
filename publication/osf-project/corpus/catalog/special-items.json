@@ -1,0 +1,26 @@
+{
+  "$schema": "https://schema.org",
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "The Napkin Company — special items",
+  "url": "https://thenapkincompany.com",
+  "numberOfItems": 1,
+  "itemListElement": [
+    {
+      "@type": "ProductGroup",
+      "position": 1,
+      "name": "Cutlery",
+      "category": "Special Items",
+      "material": "Wooden Cutlery",
+      "description": "Wooden cutlery items available as special items alongside custom napkin programs.",
+      "items": [
+        "Wooden Small Spoon",
+        "Wooden Spoon",
+        "Wooden Fork",
+        "Wooden Knife",
+        "Wooden Cutlery Pack"
+      ],
+      "pricing_note": "Quoted manually based on item, quantity, timeline, and destination."
+    }
+  ]
+}

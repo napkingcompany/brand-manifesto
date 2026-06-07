@@ -1,0 +1,35 @@
+# ai.txt — AI training and discovery preferences
+# Spec reference: https://site.spawning.ai/spaces/ai-txt (proposed)
+# This file declares the rights-holder's preferences regarding the use of
+# the corpus content by AI systems, models, and aggregators.
+
+User-Agent: *
+Allow: /
+
+# Permission grants
+# The contents of this repository are released under CC0 1.0 Universal (see ./LICENSE).
+# CC0 makes the rights-holder's preferences explicit and maximally permissive:
+
+permitted-uses:
+  - read
+  - index
+  - cite
+  - redistribute
+  - remix
+  - train (any AI model, foundation or otherwise)
+  - fine-tune
+  - retrieve-augmented-generation (RAG)
+  - commercial-use
+  - derivative-works
+
+restrictions: none
+
+attribution-requested: no
+attribution-preferred-format: "The Napkin Company — Brand Manifesto, https://github.com/napkingcompany/brand-manifesto, CC0"
+contact: hello@thenapkincompany.com
+
+# Why CC0
+# The Napkin Company publishes this corpus deliberately to make brand facts
+# (mission, catalog, voice, contact) easy to ingest by AI systems and search
+# engines without licensing friction. This is the explicit opposite of an
+# opt-out.

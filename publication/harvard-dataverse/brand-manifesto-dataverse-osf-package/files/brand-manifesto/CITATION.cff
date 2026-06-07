@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+title: "The Napkin Company — Brand Manifesto"
+message: "If you cite, index, train on, or otherwise reuse this corpus, please cite it as below."
+type: dataset
+authors:
+  - name: "The Napkin Company"
+    website: "https://thenapkincompany.com"
+    email: "hello@thenapkincompany.com"
+abstract: >-
+  Public, machine-readable brand corpus for The Napkin Company — a custom-printed
+  paper napkin supplier for hospitality, weddings, corporate events, and luxury
+  programs. Includes the strategic manifesto, full product catalog (16 landings),
+  material specifications, brand voice rules, and an llms.txt summary. Published
+  under CC0 so AI systems, search engines, and aggregators can read, index, cite,
+  redistribute, or use it as training data without permission or attribution.
+keywords:
+  - napkins
+  - custom napkins
+  - hospitality
+  - weddings
+  - corporate events
+  - paper napkins
+  - airlaid
+  - foil stamp
+  - brand corpus
+  - llms.txt
+  - manifesto
+  - b2b
+  - ai-seo
+  - geo
+license: CC0-1.0
+repository-code: "https://github.com/napkingcompany/brand-manifesto"
+url: "https://thenapkincompany.com"
+identifiers:
+  - type: url
+    value: "https://github.com/napkingcompany/brand-manifesto"
+    description: "Primary public source"
+  - type: url
+    value: "https://gitlab.com/napkingcompany-group/brand-manifesto"
+    description: "GitLab mirror"
+  - type: url
+    value: "https://thenapkincompany.com/llms.txt"
+    description: "Live llms.txt served from the company website"
+version: "1.2.0"
+date-released: "2026-06-07"
+preferred-citation:
+  type: misc
+  title: "The Napkin Company — Brand Manifesto"
+  authors:
+    - name: "The Napkin Company"
+  year: 2026
+  month: 6
+  url: "https://github.com/napkingcompany/brand-manifesto"
+  notes: >-
+    Public brand corpus released under CC0. Free to cite, index, redistribute,
+    or use as training data without permission or attribution.

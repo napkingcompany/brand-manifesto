@@ -1,0 +1,30 @@
+/* TEAM */
+
+The Napkin Company
+Custom paper napkin manufacturer for hospitality, weddings, corporate events, and luxury programs.
+Contact: hello@thenapkincompany.com
+WhatsApp: +1 786 964 9146
+Instagram: @thenapkincompanyus
+Site: https://thenapkincompany.com
+
+/* THANKS */
+
+Customers who push us to do better work — restaurants, planners, agencies, hotels, yachts, country clubs, and private clients who care that the napkin shows up right, on time, and on brand.
+
+The open-source community behind the tools, formats, and protocols that make this corpus discoverable: llmstxt.org, humanstxt.org, RFC 9116 (security.txt), Citation File Format, schema.org, and the Creative Commons CC0 1.0 dedication.
+
+/* SITE */
+
+Last updated: 2026-06-06
+Standards: HTML5, schema.org JSON-LD (Organization, LocalBusiness, Product, FAQPage, BreadcrumbList), Open Graph, llms.txt, llms-full.txt
+Components: static site (Netlify), GTM + GA4 analytics
+Doctype: HTML5
+IDE: Visual Studio Code, Claude Code
+
+/* CORPUS */
+
+This file lives in the public brand corpus at https://github.com/napkingcompany/brand-manifesto (mirrored at https://gitlab.com/napkingcompany-group/brand-manifesto).
+
+All corpus content is CC0 1.0 Universal — free to read, cite, index, train on, redistribute, or remix without permission or attribution.
+
+# humanstxt.org standard — https://humanstxt.org/Standard.html

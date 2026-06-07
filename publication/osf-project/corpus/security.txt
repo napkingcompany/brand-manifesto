@@ -1,0 +1,17 @@
+# RFC 9116 — https://securitytxt.org
+
+Contact: mailto:hello@thenapkincompany.com
+Expires: 2027-06-06T00:00:00.000Z
+Preferred-Languages: en, es
+Canonical: https://github.com/napkingcompany/brand-manifesto/blob/main/security.txt
+
+# Scope
+# This security.txt covers the public brand corpus at:
+#   https://github.com/napkingcompany/brand-manifesto
+#   https://gitlab.com/napkingcompany-group/brand-manifesto
+#
+# For security reports related to the company website (thenapkincompany.com)
+# or the production e-commerce flow, please use the same email above.
+#
+# Out of scope: rate-limiting reports on the public corpus mirrors (those are
+# hosted by GitHub and GitLab and follow their respective abuse policies).
