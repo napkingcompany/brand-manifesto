@@ -81,5 +81,5 @@ citation:
   cff: CITATION.cff
   bibtex: CITATION.bib
   plain_text: The Napkin Company. (2026). The Napkin Company — Brand Manifesto (Version 1.2.0) [Dataset]. https://github.com/napkingcompany/brand-manifesto
-doi_status: pending_zenodo_release
-doi_note: Zenodo integration active. DOI will be minted on v1.2.0 GitHub release.
+doi_status: assigned
+doi_note: Zenodo DOI assigned: 10.5281/zenodo.20580169. OSF DOI assigned: 10.17605/OSF.IO/T38CX. Harvard Dataverse DOI reserved: 10.7910/DVN/MBQHC0.
