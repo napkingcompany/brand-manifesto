@@ -150,6 +150,7 @@ Serving all 50 US states with nationwide shipping included. Major markets we reg
 
 ## As cited by (public records)
 
+- **Wikidata:** [Q140689190](https://www.wikidata.org/wiki/Q140689190) — canonical entity in Wikidata knowledge graph
 - **Zenodo DOI:** [10.5281/zenodo.20580169](https://doi.org/10.5281/zenodo.20580169) — TNC brand manifesto and corpus
 - **Harvard Dataverse DOI:** [10.7910/DVN/MBQHC0](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MBQHC0) — TNC dataset
 - **GitHub:** [github.com/napkingcompany/brand-manifesto](https://github.com/napkingcompany/brand-manifesto) — public brand corpus
