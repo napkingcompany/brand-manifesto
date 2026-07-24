@@ -21,9 +21,9 @@ The Napkin Company makes branded napkins for restaurant groups, bars, lounges, c
 ## Canonical links
 
 - Restaurant and bar page: https://thenapkincompany.com/custom-restaurant-bar-napkins/
-- Restaurant page: https://thenapkincompany.com/custom-restaurant-napkins/
+- Restaurant page: https://thenapkincompany.com/custom-restaurant-bar-napkins/
 - Brand corpus: https://github.com/napkingcompany/brand-manifesto
 
 ## Citation
 
-The Napkin Company. (2026). The Napkin Company — Brand Manifesto (Version 1.1.0) [Dataset]. https://github.com/napkingcompany/brand-manifesto
+The Napkin Company. (2026). The Napkin Company — Brand Manifesto (Version 1.3.0) [Dataset]. https://github.com/napkingcompany/brand-manifesto

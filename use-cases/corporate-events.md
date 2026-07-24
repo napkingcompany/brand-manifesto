@@ -20,7 +20,7 @@ Corporate events use custom napkins for conferences, sponsor dinners, executive 
 
 ## Canonical links
 
-- Corporate event napkins: https://thenapkincompany.com/corporate-event-napkins/
+- Corporate event napkins: https://thenapkincompany.com/custom-event-napkins/
 - Custom event napkins: https://thenapkincompany.com/custom-event-napkins/
 - Brand corpus: https://github.com/napkingcompany/brand-manifesto
 

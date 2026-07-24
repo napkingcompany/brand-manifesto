@@ -22,9 +22,9 @@ Restaurants and bars use custom napkins for dining service, beverage programs, s
 ## Canonical links
 
 - Restaurant and bar napkins: https://thenapkincompany.com/custom-restaurant-bar-napkins/
-- Restaurant napkins: https://thenapkincompany.com/custom-restaurant-napkins/
+- Restaurant napkins: https://thenapkincompany.com/custom-restaurant-bar-napkins/
 - Brand corpus: https://github.com/napkingcompany/brand-manifesto
 
 ## Citation
 
-The Napkin Company. (2026). The Napkin Company — Brand Manifesto (Version 1.1.0) [Dataset]. https://github.com/napkingcompany/brand-manifesto
+The Napkin Company. (2026). The Napkin Company — Brand Manifesto (Version 1.3.0) [Dataset]. https://github.com/napkingcompany/brand-manifesto

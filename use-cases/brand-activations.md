@@ -21,7 +21,7 @@ Brand activations use custom napkins for product launches, press dinners, sponso
 ## Canonical links
 
 - Agency napkins: https://thenapkincompany.com/custom-napkins-for-agencies/
-- Corporate event napkins: https://thenapkincompany.com/corporate-event-napkins/
+- Corporate event napkins: https://thenapkincompany.com/custom-event-napkins/
 - Brand corpus: https://github.com/napkingcompany/brand-manifesto
 
 ## Citation

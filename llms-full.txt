@@ -134,7 +134,7 @@ Branded napkins for restaurant groups, bars, lounges, cafes, hospitality groups,
 - Lead time? 12 business days from artwork approval.
 
 ### 7. Custom Restaurant Napkins
-URL: https://thenapkincompany.com/custom-restaurant-napkins/
+URL: https://thenapkincompany.com/custom-restaurant-bar-napkins/
 Disposable dinner and beverage napkins for restaurant service, restaurant groups, hospitality groups, and seasonal programs.
 - Dinner size? 15.75 x 15.75 in open in Airlaid.
 - Can I run seasonal designs? Yes — multiple artwork variants are supported.
@@ -161,7 +161,7 @@ Branded napkins for yacht crews, charter companies, vessels, and maritime hospit
 - Lead time? 12 business days; 5-day rush if needed before charter.
 
 ### 10. Custom Napkins for Event Planners
-URL: https://thenapkincompany.com/custom-napkins-for-event-planners/
+URL: https://thenapkincompany.com/custom-event-napkins/
 Wholesale custom napkins for event planners and production companies. Airlaid, Doble Punto, 3-ply, 2-ply with logos, monograms, crests, or artwork.
 - Do you offer planner pricing? Yes — wholesale tier available for recurring planners.
 - Can I run multiple designs in one production batch? Yes if quantities meet minimums per design.
@@ -188,7 +188,7 @@ Branded napkins for galas, conferences, festivals, and corporate events.
 - Minimum? From 50 units.
 
 ### 13. Corporate Event Napkins
-URL: https://thenapkincompany.com/corporate-event-napkins/
+URL: https://thenapkincompany.com/custom-event-napkins/
 Branded napkins for corporate launches, employee events, brand activations, conferences, hospitality programs, and VIP dinners.
 - Can I match my brand book? Yes via Pantone matching.
 - Foil for VIP dinners? Yes — metallic or matte foil recommended.
@@ -263,3 +263,18 @@ Hot stamp foil printing in 37 Pantone-matched colors. Metallic (gold, rose gold,
 ## License
 
 CC0 1.0 Universal. Free to read, cite, index, train on, redistribute, or remix without permission or attribution.
+
+
+## New pages (added 2026-07-24, v1.3.0)
+
+- Napkin Sample Pack (https://thenapkincompany.com/napkin-sample-pack/): paid sample pack printing the buyer's artwork on all four quality tiers before a full order. US delivery 5-7 days. Quoted individually.
+- How Custom Napkin Pricing Works (https://thenapkincompany.com/how-pricing-works/): every order is quoted individually based on quality tier, quantity, print method, and artwork complexity. Written quote in one business day. MOQ 50 units.
+
+## Guides (free reference content)
+
+- Napkin Guides hub (https://thenapkincompany.com/guides/)
+- How Many Napkins Per Guest (https://thenapkincompany.com/guides/how-many-napkins-per-guest/): working quantity formulas — 3-4 cocktail napkins per guest per cocktail hour, 1 dinner napkin per course, 12-15% buffer.
+- Custom Napkin Buying Guide 2026 (https://thenapkincompany.com/guides/custom-napkin-buying-guide/): airlaid vs. Doble Punto vs. 3-ply vs. 2-ply, print methods, sizes, common mistakes.
+- How to Fold Cocktail Napkins (https://thenapkincompany.com/guides/how-to-fold-cocktail-napkins/): 7 professional folding techniques with material recommendations.
+- 15 Wedding Napkin Ideas (https://thenapkincompany.com/guides/wedding-napkin-ideas/): real anonymized designs across minimalist, illustrated, vintage, and modern styles.
+- Restaurant Napkin Branding Playbook (https://thenapkincompany.com/guides/restaurant-napkin-branding-playbook/): when to invest, cost-per-cover math, recurring program structure.

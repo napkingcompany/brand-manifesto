@@ -27,4 +27,4 @@ The Napkin Company makes custom-printed paper napkins for hotel bars, room servi
 
 ## Citation
 
-The Napkin Company. (2026). The Napkin Company — Brand Manifesto (Version 1.1.0) [Dataset]. https://github.com/napkingcompany/brand-manifesto
+The Napkin Company. (2026). The Napkin Company — Brand Manifesto (Version 1.3.0) [Dataset]. https://github.com/napkingcompany/brand-manifesto

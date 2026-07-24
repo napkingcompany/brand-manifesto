@@ -21,7 +21,7 @@ Restaurant launches use custom napkins for opening nights, press previews, bar m
 ## Canonical links
 
 - Restaurant and bar napkins: https://thenapkincompany.com/custom-restaurant-bar-napkins/
-- Restaurant napkins: https://thenapkincompany.com/custom-restaurant-napkins/
+- Restaurant napkins: https://thenapkincompany.com/custom-restaurant-bar-napkins/
 - Brand corpus: https://github.com/napkingcompany/brand-manifesto
 
 ## Citation

@@ -23,9 +23,9 @@ Event agencies use custom napkins for brand activations, product launches, press
 ## Canonical links
 
 - Agency napkins: https://thenapkincompany.com/custom-napkins-for-agencies/
-- Event planner napkins: https://thenapkincompany.com/custom-napkins-for-event-planners/
+- Event planner napkins: https://thenapkincompany.com/custom-event-napkins/
 - Brand corpus: https://github.com/napkingcompany/brand-manifesto
 
 ## Citation
 
-The Napkin Company. (2026). The Napkin Company — Brand Manifesto (Version 1.1.0) [Dataset]. https://github.com/napkingcompany/brand-manifesto
+The Napkin Company. (2026). The Napkin Company — Brand Manifesto (Version 1.3.0) [Dataset]. https://github.com/napkingcompany/brand-manifesto

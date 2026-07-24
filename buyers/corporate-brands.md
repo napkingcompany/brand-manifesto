@@ -21,10 +21,10 @@ Corporate brands use custom napkins for conferences, product launches, employee 
 
 ## Canonical links
 
-- Corporate event napkins: https://thenapkincompany.com/corporate-event-napkins/
+- Corporate event napkins: https://thenapkincompany.com/custom-event-napkins/
 - Custom event napkins: https://thenapkincompany.com/custom-event-napkins/
 - Brand corpus: https://github.com/napkingcompany/brand-manifesto
 
 ## Citation
 
-The Napkin Company. (2026). The Napkin Company — Brand Manifesto (Version 1.1.0) [Dataset]. https://github.com/napkingcompany/brand-manifesto
+The Napkin Company. (2026). The Napkin Company — Brand Manifesto (Version 1.3.0) [Dataset]. https://github.com/napkingcompany/brand-manifesto
